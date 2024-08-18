@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Sample/DragImg/Scenes/DragImg.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
